@@ -7,11 +7,12 @@
 # apt-get install libjson-c-dev
 ```
 
-2、安装SDK
+2、运行demo
 ```bash 
 # cd sts-c-demo
 # mkdir build
 # cd build 
 # cmake ..
 # make 
+# ./demo/sts_demo
 ```
